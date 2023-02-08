@@ -5,6 +5,8 @@ draft: false
 title: Report Guidelines
 uid: 1c1acc28-ea54-4c00-bc95-f31422e3c20a
 ---
+Depending on class size, students will work alone or in pairs/groups to prepare and deliver a 10-minute in-class report on one day’s reading or film. This report should include research, drawing on materials from print and online sources and presenting a Works Cited list [(MLA format](https://mlahandbookplus.org/)), on a handout or slides to be shared with the class and submitted for a grade (250 words). It should 1) present brief, salient context, 2) consider a passage from the reading, and 3) raise questions for further thought and analysis. You will be graded on content, delivery, and ability to generate class discussion.
+
 1. Research your topic, consulting a balance of reference and scholarly sources (articles and books) drawing on the resources offered in the research workshop and in the class library guide provided by Mark Szarko in the workshop.
 2. Select salient points and materials: facts and information about an author, director, or performer; central ideas; passage(s) or film clips in the work under discussion that you find striking for whatever reasons.
 3. Prepare a handout or slides for the class (250 words), presenting your materials in an organized, concise format You may include images or other visual materials if they fit and are appropriate.  Give your talk a title.
