@@ -1,0 +1,17 @@
+leftnav:
+- identifier: bbc7600c-0de3-4980-8e78-2e537ddd687e
+  name: Syllabus
+  url: /pages/syllabus
+  weight: 10
+- identifier: df733917-1aa0-4cda-96e8-dd68213c1daa
+  name: Calendar
+  url: /pages/calendar
+  weight: 20
+- identifier: 8d97e2c4-96fa-44ea-a0bf-2e0bb3d5490e
+  name: Assignments
+  url: /pages/assignment
+  weight: 30
+- identifier: external--763591547-1675869452137
+  name: 'MIT Library Guide: Comedy'
+  url: https://libguides.mit.edu/comedy/home
+  weight: 40
