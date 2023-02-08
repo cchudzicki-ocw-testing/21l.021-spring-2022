@@ -2,7 +2,7 @@
 content_type: page
 description: Contains all essay assignments for 21L.021 Comedy.
 draft: false
-title: Assignments
+title: Essays
 uid: 8d97e2c4-96fa-44ea-a0bf-2e0bb3d5490e
 ---
 For all essays, focus on a single character, scene, or even passage in the work(s), and support your point with close reading of the text. Make sure your essay has a point about which someone might take a different view, using evidence in the text. Try to avoid a mechanical, five-paragraph structure, aiming instead to engage your reader in dialogue with your process.
