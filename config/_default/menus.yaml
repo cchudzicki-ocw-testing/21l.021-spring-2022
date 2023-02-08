@@ -8,7 +8,7 @@ leftnav:
   url: /pages/calendar
   weight: 20
 - identifier: 8d97e2c4-96fa-44ea-a0bf-2e0bb3d5490e
-  name: Assignments
+  name: Essays
   url: /pages/assignment
   weight: 30
 - identifier: external--763591547-1675869452137
