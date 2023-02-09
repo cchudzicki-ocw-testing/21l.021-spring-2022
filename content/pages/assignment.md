@@ -11,6 +11,10 @@ For all essays, focus on a single character, scene, or even passage in the work(
 
 Due 2.24.22 (1000 wds)  
 
+> Essay 1 Notes
+> 
+> Essay 1 Grading Rubric
+
 This play about war enacts a dizzying variety of rhetorical and physical conflicts: insult rituals, mock battles, sexual play, choral songs and dances, domestic objects used as weapons, parody, undressing, dressing, and brandishing of body parts, punning, trickery, use of jarring contrast, and perhaps most devastating of all, unexpected kindness.
 
 What is the effect of these conflicts? How do they begin, escalate, and get resolved? Do the combatants get stuck or move beyond the crisis phase? How do they reflect on conflicts taking place off stage—military battles between Athenians and Spartans, political rivalries in government, corruption and greed in trade and the marketplace?
@@ -26,6 +30,8 @@ Give your essay an evocative title.
 ### Revision of Essay #1 
 
 Due 3.8.22 (1000 wds)
+
+> Revision Guidelines
 
 You will receive feedback on specific aspects of your essay: ideas and argument, organization, mechanics, and style. Your revision should show that you have addressed the most salient issues carefully. It should also develop the original paper in some visible way: by refining the thesis, considering new evidence and textual details, substantiating the argument, expanding the conclusion. The revision is a new, not simply improved, paper: hence the weight given to substantial refinements. You may draw on new readings or films to amplify your original topic. Please write a cover sheet explaining your revision process.
 
