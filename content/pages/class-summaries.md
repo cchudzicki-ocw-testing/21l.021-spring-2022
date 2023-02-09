@@ -54,3 +54,13 @@ You will also observe the comic roles of subordinate and lower-caste characters-
 The humor of men dressed as women is a staple of Billy Wilder's *Some Like It Hot*, and we will continue our discussion of gender comedy next week with that film.
 
 ### Session 5: Plautus and Billy Wilder, SOME LIKE IT HOT
+
+In today's class we will return to our discussion of farce and look more closely at the ending of Plautus' *The Two Menaechmuses* for insight into the way he handles comic recognition/unmasking and resolution of the of the play's conflicts. Then we examine Billy Wilder's *Some Like it Hot* (1959) as twentieth-century film farce, with many elements we have seen in Plautus, though significant differences as well. If you have not commented on *Menaechmuses,* please post at the Plautus Discussion Forum; you will find a separate forum on Wilder. (Clarification: you should post on Plautus if you have not already done so; Wilder is one of the several films you can post on during the semester to get to at least ten posts.)
+
+### Session 6: Research Workshop
+
+For this class, you need to have selected a topic and date for your in-class oral report and be ready to locate reference and scholarly materials in the workshop . We welcome questions about the research process, as well as guidelines, as laid out in the `**handout**`. 
+
+### Session 7: Writing Workshop
+
+We will use class time to practice skills of peer review, working with writing partners and discussing critical writing issues. You will have until midnight `**Thursday February 24**` to hand in your final draft--enough time to make minor adjustments but not to undertake a full revision, for which you will have a separate assignment `**due March 8**`. Please bring your draft in a form you can share.
