@@ -5,11 +5,19 @@ draft: false
 title: Assignments
 uid: def28f59-bf40-4be3-b34d-3343aaf9ffef
 ---
-Discussion Prompts
+### Discussion Prompts
 
-Essays
+Topics in the Discussion Forum will be posted with each new author or director, or you may start your own. This writing supports class discussion, essay writing, and your growth as a critical reader and thinker. Plan to write a thoughtful post of 100-200 words on each of at least ten authors and film directors. Pace yourself and time your posts to coordinate with class discussion of a particular text (i.e. do not write about a text after we have moved on to another unless you are comparing two). You do not have to post on a day when an assignment is due.
 
-### Reflection (750 words or equivalent, 10%) 
+See the full list of {{% resource_link "cb0f4dea-60b6-4c83-93a8-6c4d34389f5d" "discussion prompts" %}}.
+
+### Essays
+
+These draw on discussion posts, class discussions, and open-ended prompts. You have the option of handing in essays (please use Microsoft Word format) via the course website any time before midnight of the day assigned.
+
+See the full list of {{% resource_link "8d97e2c4-96fa-44ea-a0bf-2e0bb3d5490e" "essay prompts, guidelines, and rubrics" %}}.
+
+### Reflection
 
 At the end of the semester please submit an assessment of your learning in this class. You may use whatever medium communicates your ideas effectively."
 
