@@ -172,3 +172,9 @@ In this class, we will share drafts of the Reflection essay, due by midnight.
 We will also view stand-up clips by Andy Kaufman and Hannah Gadsby that use metacomic technique to reflect on comedy as well.
 
 Posts at the discussion forum on reflection will also enrich our discussion of how we view comedy in this culture, time, and place.
+
+### Session 25: Festive Conclusion
+
+In this class, we will discuss essays and perhaps do an abbreviated peer review workshop, depending on class preferences.
+
+Please bring something festive to share for a comic conclusion to the semester: a joke, video clip, song, story, or whatever might produce celebratory vibes for all. If you would like to work with other members of the class to produce your contribution, that's fine. Our goal will be to enjoy ourselves—and perhaps come to some conclusions about the comic spirit.
