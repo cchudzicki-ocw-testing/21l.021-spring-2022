@@ -21,7 +21,7 @@ Zinoman, Jason. “[If Comedy Is Making You Feel Bad, You're Not Paying Attentio
 
 ### Session 2
 
-Aristophanes. "Lysistrata" in *Four Plays by Aristophanes: The Clouds / the Birds / Lysistrata / the Frogs*. London: Plume, 1994. ISBN: 9780452007178.
+Aristophanes. "Lysistrata." In *Four Plays by Aristophanes: The Clouds / The Birds / Lysistrata / The Frogs*. London: Plume, 1994. ISBN: 9780452007178.
 
 Read the entire play or as much as you can of *Lysistrata.*
 
@@ -43,7 +43,7 @@ No required readings.
 
 ### Sessions 8–9
 
-Shakespeare, William. "The Taming of the Shrew." In *Four Comedies: The Taming of the Shrew ; A Midsummer Night's Dream ; as You like It ; Twelfth Night*. Penguin Publishing Group, 1995.
+Shakespeare, William. "The Taming of the Shrew." In *Four Comedies: The Taming of the Shrew ; A Midsummer Night's Dream ; As You like It ; Twelfth Night*. Penguin Publishing Group, 1995.
 
 **Note:** For Shakespeare's *The Taming of the Shrew*, you can use any print edition or the [digital](http://shakespeare.mit.edu/) one available through MIT.
 
@@ -57,7 +57,7 @@ No required readings.
 
 ### Sessions 11–12
 
-Shakespeare, William. "Twelfth Night." In *Four Comedies: The Taming of the Shrew ; A Midsummer Night's Dream ; as You like It ; Twelfth Night*. Penguin Publishing Group, 1995.
+Shakespeare, William. "Twelfth Night." In *Four Comedies: The Taming of the Shrew ; A Midsummer Night's Dream ; As You like It ; Twelfth Night*. Penguin Publishing Group, 1995.
 
 **Note:** As with your reading of Shakespeare's *The Taming of the Shrew*, you are free to use any print edition for *Twelfth Night* or the [one available through MIT](http://shakespeare.mit.edu/twelfth_night/index.html). 
 
