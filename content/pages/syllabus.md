@@ -33,15 +33,21 @@ Plautus. "The Two Menaechmuses" in *Plautus.* Cambridge, MA: Loeb Classical Libr
 
 Shakespeare, William. *Four Comedies: The Taming of the Shrew ; A Midsummer Night's Dream ; as You like It ; Twelfth Night.* Penguin Publishing Group, 1995. ISBN: 9780140434545.
 
-**Note:** For Shakespeare's *The Taming of the Shrew* and *Twelfth Night*, you can use any print edition or the [digital](http://shakespeare.mit.edu/) one available through MIT.
+- Free, online versions of Shakespeare's works are available [through MIT](http://shakespeare.mit.edu/).
 
 Behn, Aphra. *The Rover and Other Plays*. Oxford: Oxford Univ. Press, 2008. ISBN: 9780199540204.
 
-Austen, Jane, James Kinsley, and Christina Lupton. *Pride and Prejudice*. New York, NY: Oxford University Press, 2019. ISBN: 9780198826736.
+- An online version is available at [Project Gutenberg](https://www.gutenberg.org/files/844/844-h/844-h.htm). 
+
+Austen, Jane. *Pride and Prejudice*. Edited by James Kinsley and Christina Lupton. New York, NY: Oxford University Press, 2019. ISBN: 9780198826736.
+
+- An online version is available at [Project Gutenberg](https://www.gutenberg.org/files/1342/1342-h/1342-h.htm).
 
 Melville, Herman. [*Moby-Dick*](https://melville.electroniclibrary.org/editions/versions-of-moby-dick/1-loomings). Herman Melville Electronic Library, 2008.
 
-Oscar Wilde, *The Importance of Being Earnest* (Oxford)
+Wilde, Oscar. *The Importance of Being Earnest and Other Plays*. Edited by Peter Raby. Oxford England: Oxford University Press, 2008. ISBN: 9780199535972.
+
+- An online version is available at [Project Gutenberg](https://www.gutenberg.org/files/844/844-h/844-h.htm).
 
 Alison Bechdel, *Fun Home: A Family Tragicomic* (Mariner)
 
@@ -55,7 +61,7 @@ Alison Bechdel, *Fun Home: A Family Tragicomic* (Mariner)
 
 This is a discussion class where your attendance and participation in classroom practices are vital.
 
-1. *Attendance* (10%)   
+1. *Attendance* (10%)    
       
     COVID restrictions permitting, you are expected to attend every class and writing conference. Please do not sign up for this class if you have a conflict with another class, recitation, sports commitment, or job. If you must miss class because of a medical or family emergency, please notify me beforehand if possible.
 2. *Class Participation* (10%) This class is designed to practice oral communication as well as writing skills. Be prepared to contribute to class discussion, not only by speaking but also by listening and responding effectively to others. Come to class even if you are tired, have not done the reading, or think you have nothing to contribute. You have a lot to contribute.
