@@ -49,7 +49,7 @@ Wilde, Oscar. *The Importance of Being Earnest and Other Plays*. Edited by Peter
 
 - An online version is available at [Project Gutenberg](https://www.gutenberg.org/files/844/844-h/844-h.htm).
 
-Alison Bechdel, *Fun Home: A Family Tragicomic* (Mariner)
+Bechdel, Alison. *Fun Home: A Family Tragicomic*. Mariner Books, 2007. ISBN: 9780544709041.
 
 **Films:** are available through MIT’s Film Office. 
 
@@ -61,7 +61,7 @@ Alison Bechdel, *Fun Home: A Family Tragicomic* (Mariner)
 
 This is a discussion class where your attendance and participation in classroom practices are vital.
 
-1. *Attendance* (10%)    
+1. *Attendance* (10%)     
       
     COVID restrictions permitting, you are expected to attend every class and writing conference. Please do not sign up for this class if you have a conflict with another class, recitation, sports commitment, or job. If you must miss class because of a medical or family emergency, please notify me beforehand if possible.
 2. *Class Participation* (10%) This class is designed to practice oral communication as well as writing skills. Be prepared to contribute to class discussion, not only by speaking but also by listening and responding effectively to others. Come to class even if you are tired, have not done the reading, or think you have nothing to contribute. You have a lot to contribute.
