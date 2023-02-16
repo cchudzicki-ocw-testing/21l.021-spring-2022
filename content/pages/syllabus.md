@@ -61,9 +61,7 @@ Bechdel, Alison. *Fun Home: A Family Tragicomic*. Mariner Books, 2007. ISBN: 978
 
 This is a discussion class where your attendance and participation in classroom practices are vital.
 
-1. *Attendance* (10%)     
-      
-    COVID restrictions permitting, you are expected to attend every class and writing conference. Please do not sign up for this class if you have a conflict with another class, recitation, sports commitment, or job. If you must miss class because of a medical or family emergency, please notify me beforehand if possible.
+1. *Attendance* (10%) COVID restrictions permitting, you are expected to attend every class and writing conference. Please do not sign up for this class if you have a conflict with another class, recitation, sports commitment, or job. If you must miss class because of a medical or family emergency, please notify me beforehand if possible.
 2. *Class Participation* (10%) This class is designed to practice oral communication as well as writing skills. Be prepared to contribute to class discussion, not only by speaking but also by listening and responding effectively to others. Come to class even if you are tired, have not done the reading, or think you have nothing to contribute. You have a lot to contribute.
 3. *Discussion Forum* (10%) Topics in the Discussion Forum will be posted with each new author or director, or you may start your own. This writing supports class discussion, essay writing, and your growth as a critical reader and thinker. Plan to write a thoughtful post of 100-200 words on each of at least ten authors and film directors. Pace yourself and time your posts to coordinate with class discussion of a particular text (i.e. do not write about a text after we have moved on to another unless you are comparing two). You do not have to post on a day when an assignment is due.
 
