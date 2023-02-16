@@ -65,12 +65,12 @@ Shakespeare, William. "Twelfth Night" in *Four Comedies: The Taming of the Shrew
 
 Trevor. Nunn et al.. 1997. *Twelfth Night.* New Line Home Video.
 
-### Session 13
+### Sessions 13–15
 
 Behn, Aphra. *The Rover and Other Plays*. Oxford: Oxford Univ. Press, 2008. ISBN: 9780199540204.
 
-Please read Aphra Behn's "Prologue" and Acts 1–3. The print copy is preferred, but you can find a digital text at [Gutenberg](http://www.gutenberg.org/files/21339/21339-h/21339-h.htm) (read Part 1, which was a separate play, not Part 2, the sequel) or you can use the [Internet Archive text](https://archive.org/details/worksofaphrbehn01behnuoft/page/14/mode/2upLinks ).
+Please read Aphra Behn's "Prologue" and Acts I-V. The print copy is preferred, but you can find a digital text at [Gutenberg](http://www.gutenberg.org/files/21339/21339-h/21339-h.htm) (read Part 1, which was a separate play, not Part 2, the sequel) or you can use the [Internet Archive text](https://archive.org/details/worksofaphrbehn01behnuoft/page/14/mode/2upLinks).
 
 **Supplemental Reading**
 
-Bakhitin, Mikhail. *Rabelais and His World*. Cambridge, MA: The MIT Press, 1971. ISBN: 9780262520249.
+Bakhitin, Mikhail. *Rabelais and His World*. Translated by Helene Iswolsky. Cambridge, MA: The MIT Press, 1971, pp. 66–96. ISBN: 9780262520249.
