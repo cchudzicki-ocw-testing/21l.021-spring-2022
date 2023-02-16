@@ -31,7 +31,7 @@ Spike Lee, Terence Blanchard, and Howard Drossin. *CHI-RAQ*. USA, 2015.
 
 ### Session 4
 
-Plautus. "The Two Menaechmuses" in *Plautus.* Cambridge, MA: Loeb Classical Library. ISBN: 9780674996786.
+Plautus. "The Two Menaechmuses." In *Plautus.* Cambridge, MA: Loeb Classical Library. ISBN: 9780674996786.
 
 ### Session 5
 
@@ -43,7 +43,7 @@ No required readings.
 
 ### Sessions 8–9
 
-Shakespeare, William. "The Taming of the Shrew" in *Four Comedies: The Taming of the Shrew ; A Midsummer Night's Dream ; as You like It ; Twelfth Night*. Penguin Publishing Group, 1995.
+Shakespeare, William. "The Taming of the Shrew." In *Four Comedies: The Taming of the Shrew ; A Midsummer Night's Dream ; as You like It ; Twelfth Night*. Penguin Publishing Group, 1995.
 
 **Note:** For Shakespeare's *The Taming of the Shrew*, you can use any print edition or the [digital](http://shakespeare.mit.edu/) one available through MIT.
 
@@ -57,7 +57,7 @@ No required readings.
 
 ### Sessions 11–12
 
-Shakespeare, William. "Twelfth Night" in *Four Comedies: The Taming of the Shrew ; A Midsummer Night's Dream ; as You like It ; Twelfth Night*. Penguin Publishing Group, 1995.
+Shakespeare, William. "Twelfth Night." In *Four Comedies: The Taming of the Shrew ; A Midsummer Night's Dream ; as You like It ; Twelfth Night*. Penguin Publishing Group, 1995.
 
 **Note:** As with your reading of Shakespeare's *The Taming of the Shrew*, you are free to use any print edition for *Twelfth Night* or the [one available through MIT](http://shakespeare.mit.edu/twelfth_night/index.html). 
 
@@ -113,8 +113,30 @@ Melville, Herman. [*Moby-Dick*](https://melville.electroniclibrary.org/editions/
 
 You will find the text for Melville's *Moby-Dick* at [Melville Electronic Library](https://melville.electroniclibrary.org/). Select "Editions," then *Moby-Dick* "Reading Text." Read Chapters 1-23, the so-called "land chapters," in which Ishmael prepares to go to sea.
 
-### Session 20
+### Sessions 20–21
 
 Wilde, Oscar. *The Importance of Being Earnest and Other Plays*. Edited by Peter Raby. Oxford England: Oxford University Press, 2008. ISBN: 9780199535972.
 
 An online version is available at [Project Gutenberg](https://www.gutenberg.org/files/844/844-h/844-h.htm).
+
+### Session 22
+
+Chaplin, Charles. 1936. *Modern Times*. United States: United Artists.
+
+**Supplemental Readings**
+
+Bergson, Henri. "From Laughter." In *Comedy: Meaning and Form*, edited by Robert Corrigan, pp. 471–477. United States, Chandler Publishing Company, 1965. 
+
+Freud, Sigmund. *Jokes and their relation to the unconscious*. WW Norton & Company, 1960, pp. 221–236. ISBN: 9780393001457.
+
+### Sessions 23–24
+
+Bechdel, Alison. *Fun Home: A Family Tragicomic*. Mariner Books, 2007. ISBN: 9780544709041.
+
+### Session 25
+
+TED. "[Three Ideas. Three Contradictions. Or Not. | Hannah Gadsby](https://www.youtube.com/watch?v=87qLWFZManA)." Jun 12, 2019. YouTube.
+
+Netflix is a Joke. "[How Hannah Gadsby's High-Functioning Autism Works](https://www.youtube.com/watch?v=5lXbpgU9OWk)." May 25, 2020. 
+
+rejectedburrito. "[Andy Kaufman on HBO (1977) pt. 1 of 4)](https://www.youtube.com/watch?v=f3UG8jP3A8M). Nov 20, 2009. YouTube.
