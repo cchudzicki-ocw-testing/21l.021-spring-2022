@@ -27,4 +27,12 @@ You might use the Discussion forum on this topic to get started or review the op
 
 ### Report
 
-Each student will prepare and deliver a 10-minute in-class report on one day’s reading (possibly with a partner, depending on class size). This report should include research, using methods laid out in the research workshop on February 17 and presenting a brief bibliography using [MLA Works Cited Links to an external site.](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html)[. Links to an external site.](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_basic_format.html)Please prepare a handout or slides (a page or 250 words or equivalent in slides) to be shared with the class. It should 1) supply salient information about the reading or film for the day, 2) focus on a relevant passage, and 3) raise questions and offer ideas for further thought and analysis. You will be graded on content (4), delivery (2), and ability to generate class discussion (4).
+Each student will prepare and deliver a 10-minute in-class report on one day’s reading (possibly with a partner, depending on class size). This report should include research, using methods laid out in the research workshop and presenting a brief bibliography using [MLA Works Cited](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_formatting_and_style_guide.html)[.](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_works_cited_page_basic_format.html) Please prepare a handout or slides (a page or 250 words or equivalent in slides) to be shared with the class. 
+
+It should
+
+1. supply salient information about the reading or film for the day, 
+2. focus on a relevant passage, and 
+3. raise questions and offer ideas for further thought and analysis. 
+
+You will be graded on content, delivery, and ability to generate class discussion.
