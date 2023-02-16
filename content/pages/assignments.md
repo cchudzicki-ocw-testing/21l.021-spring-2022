@@ -5,7 +5,7 @@ draft: false
 title: Assignments
 uid: def28f59-bf40-4be3-b34d-3343aaf9ffef
 ---
-Assignments are a combination of attendance, participation, and oral communication as well as more formal written work. 
+Assignments are a combination of attendance, participation, and oral communication as well as more formal written work. See the {{% resource_link "df733917-1aa0-4cda-96e8-dd68213c1daa" "calendar" %}} for a list of due dates.
 
 ### Essays
 
@@ -25,7 +25,7 @@ See the full list of {{% resource_link "cb0f4dea-60b6-4c83-93a8-6c4d34389f5d" "d
 
 At the end of the semester please submit an assessment of your learning in this class. You may use whatever medium communicates your ideas effectively.
 
-The description above is a guideline. The word length ensures that you have submitted the required number of a words for a CI-H class; you can always write more. If you use a nonverbal medium--photography, video, graphic art, sound, etc.— or write a poem, dialogue, or story instead, please submit an artist's statement of an appropriate length. If your submission is in a different format from Microsoft Word, please send it to me as an email attachment.
+The description above is a guideline. The word length ensures that you have submitted the required number of a words for a CI-H class; you can always write more. If you use a nonverbal medium—photography, video, graphic art, sound, etc.—or write a poem, dialogue, or story instead, please submit an artist's statement of an appropriate length. If your submission is in a different format from Microsoft Word, please send it to me as an email attachment.
 
 You might use the Discussion forum on this topic to get started or review the opening survey on your experiences in writing and communication.
 
