@@ -9,7 +9,7 @@ For all essays, focus on a single character, scene, or even passage in the work(
 
 ### Essay #1 Comic Conflict (Aristophanes) 
 
-Due 2.24.22 (1000 wds)  
+Due Session 7 (1000 wds)  
 
 > Essay 1 Notes
 > 
@@ -29,7 +29,7 @@ Give your essay an evocative title.
 
 ### Revision of Essay #1 
 
-Due 3.8.22 (1000 wds)
+Due Session 10 (1000 wds)
 
 > Revision Guidelines
 
@@ -37,7 +37,7 @@ You will receive feedback on specific aspects of your essay: ideas and argument,
 
 ### Essay #2 Comic Love (Shakespeare, Behn, or Austen) 
 
-Due 4.12.22 (1500 wds)
+Due Session 18 (1500 wds)
 
 In *Twelfth Night, The Rover,* and *Pride and Prejudice*, elements of farce (clowning, mistaken identity, trickery, verbal play, violent transgression) maintain an uneasy equilibrium with the civilizing influence of romantic love. Love conquers all, but the festive conclusion may not fully address the challenges raised by farce. Some characters are not happy or fortunate in the end; some romantic couples face certain tensions; lingering reminders of a darker world lurk outside the sunny circle of wedded bliss. Yet these are all comic works, fully invested in the healing power of love.
 
@@ -50,6 +50,6 @@ Looking more closely at the ending of one of these works, consider the way the a
 
 ### Essay #3 Modern Times (Wilde, Chaplin, Bechdel) 
 
-Due 5.10.22 (1500 wds)
+Due after Session 25 (1500 wds)
 
 In this essay, you will have an opportunity to reflect on Melville’s *Moby-Dick,* Wilde’s *The Importance of Being Earnest*, Chaplin’s *Modern Times*, or Bechdel’s *Fun Home;* you may also compare two of these or one with an earlier work you have not written about*.* With these texts, ideas about social class, identity, gender and sexuality, the nature of art, the body and its appetites, and other themes enter into comic patterns we have seen before. For this paper, you may pursue more independent options in terms of content, medium, or format. In conference, we will develop a topic, focusing on a particular passage or scene, character, or turning point in the text. If you are using film, provide visual details from a particular scene.
