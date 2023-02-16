@@ -2,7 +2,7 @@
 content_type: page
 description: Guidelines for report for 21L.021 Comedy.
 draft: false
-title: Report Guidelines
+title: Report
 uid: 1c1acc28-ea54-4c00-bc95-f31422e3c20a
 ---
 Depending on class size, students will work alone or in pairs/groups to prepare and deliver a 10-minute in-class report on one day’s reading or film. This report should include research, drawing on materials from print and online sources and presenting a Works Cited list [(MLA format](https://mlahandbookplus.org/)), on a handout or slides to be shared with the class and submitted for a grade (250 words). It should 1) present brief, salient context, 2) consider a passage from the reading, and 3) raise questions for further thought and analysis. You will be graded on content, delivery, and ability to generate class discussion.
