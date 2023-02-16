@@ -9,7 +9,7 @@ uid: e50d26dc-8dfc-4fc3-8a91-ba3695fc77b6
 
 No required readings. 
 
-**Supplemental Reading**
+#### Supplemental Reading
 
 Netflix. "[Hannah Gadsby: Nanette | Official Trailer](https://www.youtube.com/watch?v=5aE29fiatQ0)." Jun 11, 2018. YouTube.
 
@@ -47,7 +47,7 @@ Shakespeare, William. "The Taming of the Shrew." In *Four Comedies: The Taming o
 
 **Note:** For Shakespeare's *The Taming of the Shrew*, you can use any print edition or the [digital](http://shakespeare.mit.edu/) one available through MIT.
 
-**Optional Film**
+#### Optional Film
 
 Zeffirelli, Franco. 1967. *The Taming of the Shrew*. United States: Columbia Pictures.
 
@@ -61,7 +61,7 @@ Shakespeare, William. "Twelfth Night." In *Four Comedies: The Taming of the Shre
 
 **Note:** As with your reading of Shakespeare's *The Taming of the Shrew*, you are free to use any print edition for *Twelfth Night* or the [one available through MIT](http://shakespeare.mit.edu/twelfth_night/index.html). 
 
-**Optional Film**
+#### Optional Film
 
 Trevor. Nunn et al.. 1997. *Twelfth Night.* New Line Home Video.
 
@@ -71,7 +71,7 @@ Behn, Aphra. *The Rover and Other Plays*. Oxford: Oxford Univ. Press, 2008. ISBN
 
 Please read Aphra Behn's "Prologue" and Acts I-III. The print copy is preferred, but you can find a digital text at [Gutenberg](http://www.gutenberg.org/files/21339/21339-h/21339-h.htm) (read Part 1, which was a separate play, not Part 2, the sequel) or you can use the [Internet Archive text](https://archive.org/details/worksofaphrbehn01behnuoft/page/14/mode/2upLinks).
 
-**Supplemental Reading**
+#### Supplemental Reading
 
 Bakhitin, Mikhail. *Rabelais and His World*. Translated by Helene Iswolsky. Cambridge, MA: The MIT Press, 1971, pp. 66–96. ISBN: 9780262520249.
 
@@ -81,7 +81,7 @@ Behn, Aphra. *The Rover and Other Plays*. Oxford: Oxford Univ. Press, 2008. ISBN
 
 Finish reading *The Rover* (Acts IV-V).
 
-**Supplemental Reading**
+#### Supplemental Reading
 
 Pacheco, Anita. "Rape and the Female Subject in Aphra Behn's 'The Rover'." *ELH* 65, no. 2 (1998): 323-345.
 
@@ -93,13 +93,13 @@ Austen, Jane, James Kinsley, and Christina Lupton. *Pride and Prejudice*. New Yo
 
 **Note:** Austen's novel was published in 1813 in three volumes. The Oxford print edition ordered for the class retains that structure, and we will discuss each volume separately in class. If you are using an online edition such as [Project Gutenberg](https://www.gutenberg.org/files/1342/1342-h/1342-h.htm) or a print edition that runs the volumes together, the first reading assignment will cover chapters 1-23, the second chapters 24-42, and the last chapters 43-61.
 
-**Supplemental Readings**
+#### Supplemental Readings
 
 Casal, Elvira. "[Laughing at Mr. Darcy: Wit and Sexuality in Pride and Prejudice](https://jasna.org/persuasions/on-line/vol22no1/casal.html)." *Persuasions On-line* 22 (2001).
 
 Bailey, Martha. "[The Marriage Law of Jane Austen’s World](https://jasna.org/publications-2/persuasions-online/vol36no1/bailey/)." *Persuasions: The Jane Austen Journal On-Line* 36, no. 1 (2015).
 
-**Optional Film**
+#### Optional Film
 
 Leonard, Robert Z. 1940. *Pride and Prejudice*. United States: Metro-Goldwyn-Mayer (MGM).
 
@@ -123,7 +123,7 @@ An online version is available at [Project Gutenberg](https://www.gutenberg.org/
 
 Chaplin, Charles. 1936. *Modern Times*. United States: United Artists.
 
-**Supplemental Readings**
+#### Supplemental Readings
 
 Bergson, Henri. "From Laughter." In *Comedy: Meaning and Form*, edited by Robert Corrigan, pp. 471–477. United States, Chandler Publishing Company, 1965. 
 
