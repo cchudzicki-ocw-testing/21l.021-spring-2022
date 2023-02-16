@@ -65,12 +65,56 @@ Shakespeare, William. "Twelfth Night" in *Four Comedies: The Taming of the Shrew
 
 Trevor. Nunn et al.. 1997. *Twelfth Night.* New Line Home Video.
 
-### Sessions 13–15
+### Session 13
 
 Behn, Aphra. *The Rover and Other Plays*. Oxford: Oxford Univ. Press, 2008. ISBN: 9780199540204.
 
-Please read Aphra Behn's "Prologue" and Acts I-V. The print copy is preferred, but you can find a digital text at [Gutenberg](http://www.gutenberg.org/files/21339/21339-h/21339-h.htm) (read Part 1, which was a separate play, not Part 2, the sequel) or you can use the [Internet Archive text](https://archive.org/details/worksofaphrbehn01behnuoft/page/14/mode/2upLinks).
+Please read Aphra Behn's "Prologue" and Acts I-III. The print copy is preferred, but you can find a digital text at [Gutenberg](http://www.gutenberg.org/files/21339/21339-h/21339-h.htm) (read Part 1, which was a separate play, not Part 2, the sequel) or you can use the [Internet Archive text](https://archive.org/details/worksofaphrbehn01behnuoft/page/14/mode/2upLinks).
 
 **Supplemental Reading**
 
 Bakhitin, Mikhail. *Rabelais and His World*. Translated by Helene Iswolsky. Cambridge, MA: The MIT Press, 1971, pp. 66–96. ISBN: 9780262520249.
+
+### Session 14
+
+Behn, Aphra. *The Rover and Other Plays*. Oxford: Oxford Univ. Press, 2008. ISBN: 9780199540204.
+
+Finish reading *The Rover* (Acts IV-V).
+
+**Supplemental Reading**
+
+Pacheco, Anita. "Rape and the Female Subject in Aphra Behn's 'The Rover'." *ELH* 65, no. 2 (1998): 323-345.
+
+Corse, Taylor. "Seventeenth-Century Naples and Aphra Behn's 'The Rover'." *Restoration: Studies in English Literary Culture, 1660-1700* 29, no. 2 (2005): 41-51.
+
+### Sessions 15–17
+
+Austen, Jane, James Kinsley, and Christina Lupton. *Pride and Prejudice*. New York, NY: Oxford University Press, 2019. ISBN: 9780198826736.
+
+**Note:** Austen's novel was published in 1813 in three volumes. The Oxford print edition ordered for the class retains that structure, and we will discuss each volume separately in class. If you are using an online edition such as [Project Gutenberg](https://www.gutenberg.org/files/1342/1342-h/1342-h.htm) or a print edition that runs the volumes together, the first reading assignment will cover chapters 1-23, the second chapters 24-42, and the last chapters 43-61.
+
+**Supplemental Readings**
+
+Casal, Elvira. "[Laughing at Mr. Darcy: Wit and Sexuality in Pride and Prejudice](https://jasna.org/persuasions/on-line/vol22no1/casal.html)." *Persuasions On-line* 22 (2001).
+
+Bailey, Martha. "[The Marriage Law of Jane Austen’s World](https://jasna.org/publications-2/persuasions-online/vol36no1/bailey/)." *Persuasions: The Jane Austen Journal On-Line* 36, no. 1 (2015).
+
+**Optional Film**
+
+Leonard, Robert Z. 1940. *Pride and Prejudice*. United States: Metro-Goldwyn-Mayer (MGM).
+
+### Session 18
+
+No required readings.
+
+### Session 19
+
+Melville, Herman. [*Moby-Dick*](https://melville.electroniclibrary.org/editions/versions-of-moby-dick/1-loomings). Chapters 1–23. Herman Melville Electronic Library, 2008. 
+
+You will find the text for Melville's *Moby-Dick* at [Melville Electronic Library](https://melville.electroniclibrary.org/). Select "Editions," then *Moby-Dick* "Reading Text." Read Chapters 1-23, the so-called "land chapters," in which Ishmael prepares to go to sea.
+
+### Session 20
+
+Wilde, Oscar. *The Importance of Being Earnest and Other Plays*. Edited by Peter Raby. Oxford England: Oxford University Press, 2008. ISBN: 9780199535972.
+
+An online version is available at [Project Gutenberg](https://www.gutenberg.org/files/844/844-h/844-h.htm).
