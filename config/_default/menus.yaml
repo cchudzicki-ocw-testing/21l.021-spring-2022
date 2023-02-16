@@ -25,7 +25,7 @@ leftnav:
   url: /pages/assignment
   weight: 10
 - identifier: 1c1acc28-ea54-4c00-bc95-f31422e3c20a
-  name: Report Guidelines
+  name: Report
   parent: def28f59-bf40-4be3-b34d-3343aaf9ffef
   url: /pages/report-guidelines
   weight: 20
