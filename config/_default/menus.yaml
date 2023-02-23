@@ -23,18 +23,18 @@ leftnav:
   name: 'MIT Library Guide: Comedy'
   url: https://libguides.mit.edu/comedy/home
   weight: 60
-- identifier: 8d97e2c4-96fa-44ea-a0bf-2e0bb3d5490e
-  name: Essays
-  parent: def28f59-bf40-4be3-b34d-3343aaf9ffef
-  url: /pages/assignment
-  weight: 10
-- identifier: 1c1acc28-ea54-4c00-bc95-f31422e3c20a
-  name: Report
-  parent: def28f59-bf40-4be3-b34d-3343aaf9ffef
-  url: /pages/report-guidelines
-  weight: 20
 - identifier: cb0f4dea-60b6-4c83-93a8-6c4d34389f5d
   name: Discussion Prompts
   parent: def28f59-bf40-4be3-b34d-3343aaf9ffef
   url: /pages/discussion-prompts
+  weight: 10
+- identifier: 8d97e2c4-96fa-44ea-a0bf-2e0bb3d5490e
+  name: Essays
+  parent: def28f59-bf40-4be3-b34d-3343aaf9ffef
+  url: /pages/assignment
+  weight: 20
+- identifier: 1c1acc28-ea54-4c00-bc95-f31422e3c20a
+  name: Report
+  parent: def28f59-bf40-4be3-b34d-3343aaf9ffef
+  url: /pages/report-guidelines
   weight: 30
