@@ -4,7 +4,13 @@
   "level": [
     "Undergraduate"
   ],
-  "topics": [],
+  "topics": [
+    [
+      "Humanities",
+      "Literature",
+      "Comedy"
+    ]
+  ],
   "legacy_uid": "",
   "instructors": {
     "content": [
@@ -27,7 +33,10 @@
     "content": "37344cac-4f25-4996-be43-ec0adb167c44",
     "website": "21l021-comedy"
   },
-  "learning_resource_types": [],
+  "learning_resource_types": [
+    "Written Assignments",
+    "Readings"
+  ],
   "site_uid": "da7436b9-ef03-470f-a2e8-3d53a8575e17",
   "site_short_id": "21l.021-spring-2022"
 }
