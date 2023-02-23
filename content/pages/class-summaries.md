@@ -43,7 +43,7 @@ We will also view and discuss in Annotation Studio passages from the ending of *
 
 ### Session 4: Plautus, *The Two Manaechmuses*
 
-You can get a sense of the broad-stroke changes in comic forms as Greek Old Comedy (Aristophanes' forte) evolves into New Comedy, then Roman Comedy, `**in the handout on Greek and Roman Comedy**`. Plautus (c. 254-184 BCE) is often viewed as the epitome of Roman Comedy, and you will see both continuities and differences from Aristophanes. The second handout, comparing `**Greek and Roman Play Forms**`, may extend and clarify this point.
+You can get a sense of the broad-stroke changes in comic forms as Greek Old Comedy (Aristophanes' forte) evolves into New Comedy, then Roman Comedy. Plautus (c. 254-184 BCE) is often viewed as the epitome of Roman Comedy, and you will see both continuities and differences from Aristophanes. 
 
 With Plautus we encounter farce, a comic mechanism that intensifies the effects of comic transgression in Aristophanes.
 
@@ -59,11 +59,11 @@ In today's class we will return to our discussion of farce and look more closely
 
 ### Session 6: Research Workshop
 
-For this class, you need to have selected a topic and date for your in-class oral report and be ready to locate reference and scholarly materials in the workshop . We welcome questions about the research process, as well as guidelines, as laid out in the `**handout**`. 
+For this class, you need to have selected a topic and date for your in-class oral report and be ready to locate reference and scholarly materials in the workshop . We welcome questions about the research process. 
 
 ### Session 7: Writing Workshop
 
-We will use class time to practice skills of peer review, working with writing partners and discussing critical writing issues. You will have until midnight `**Thursday February 24**` to hand in your final draft--enough time to make minor adjustments but not to undertake a full revision, for which you will have a separate assignment `**due March 8**`. Please bring your draft in a form you can share.
+We will use class time to practice skills of peer review, working with writing partners and discussing critical writing issues. You will have until midnight to hand in your final draft—enough time to make minor adjustments but not to undertake a full revision, for which you will have a separate assignment. Please bring your draft in a form you can share.
 
 ### Session 8: Shakespeare, *The Taming of the Shrew*
 
