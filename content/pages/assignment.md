@@ -11,8 +11,6 @@ For all essays, focus on a single character, scene, or even passage in the work(
 
 Due Session 7 (1000 wds)  
 
-> Essay 1 Notes
-> 
 > Essay 1 Grading Rubric
 
 This play about war enacts a dizzying variety of rhetorical and physical conflicts: insult rituals, mock battles, sexual play, choral songs and dances, domestic objects used as weapons, parody, undressing, dressing, and brandishing of body parts, punning, trickery, use of jarring contrast, and perhaps most devastating of all, unexpected kindness.
