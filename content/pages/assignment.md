@@ -11,7 +11,7 @@ For all essays, focus on a single character, scene, or even passage in the work(
 
 Due Session 7 (1000 wds)  
 
-> Essay 1 Grading Rubric
+{{% resource_link "99a9acff-3cb9-41db-9157-de70099882a0" "Essay 1 Grading Rubric (PDF)" %}} ({{% resource_link "fc4757e4-2eab-461f-828f-e6e317eab957" "DOCX" %}})
 
 This play about war enacts a dizzying variety of rhetorical and physical conflicts: insult rituals, mock battles, sexual play, choral songs and dances, domestic objects used as weapons, parody, undressing, dressing, and brandishing of body parts, punning, trickery, use of jarring contrast, and perhaps most devastating of all, unexpected kindness.
 
@@ -21,7 +21,7 @@ Choose one brief example of a verbal or physical battle that you can analyze in 
 
 When you have a firm grasp of specific elements of the passage, write an opening paragraph in which you propose a question or claim. Use this introduction to frame your close reading, introducing topic sentences and transitions that structure and develop your idea. Conclude with a thoughtful paragraph that opens up your analysis for further reflection. You do not want your conclusion only to summarize material that you have already explained well in the paper, nor do you want to suggest that the subject is closed. You do not need to advance an argument for the whole play. Your reading will offer sustained attention to one small piece of the larger work. Remember that you are writing for people who have read the play and will not need a report on or summary of its content. Present your reading as part of a dialogue among engaged readers.
 
-Use MLA Works Cited format to cite your texts (put page numbers in parentheses after your first quotation) and list the texts at the end of the essay in a Works Cited list. You will find links to sites on MLA Works Cited format at the class Canvas site. You may wish to write out the passage as an appendix, but do refer to and quote its details within your essay as part of your reading.
+Use MLA Works Cited format to cite your texts (put page numbers in parentheses after your first quotation) and list the texts at the end of the essay in a Works Cited list. You may wish to write out the passage as an appendix, but do refer to and quote its details within your essay as part of your reading.
 
 Give your essay an evocative title.
 
@@ -29,7 +29,7 @@ Give your essay an evocative title.
 
 Due Session 10 (1000 wds)
 
-> Revision Guidelines
+{{% resource_link "3d4c86d7-704a-43c1-ac98-d455148d0b67" "Revision Guidelines (PDF)" %}} ({{% resource_link "77fdee17-c75b-43a4-ad81-bc26b9fc5272" "DOCX" %}})
 
 You will receive feedback on specific aspects of your essay: ideas and argument, organization, mechanics, and style. Your revision should show that you have addressed the most salient issues carefully. It should also develop the original paper in some visible way: by refining the thesis, considering new evidence and textual details, substantiating the argument, expanding the conclusion. The revision is a new, not simply improved, paper: hence the weight given to substantial refinements. You may draw on new readings or films to amplify your original topic. Please write a cover sheet explaining your revision process.
 
