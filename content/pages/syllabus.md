@@ -11,7 +11,7 @@ Lectures: 2 sessions / week; 1.5 hrs / session
 
 ### Prerequisites
 
-There are no prerequisits for this course.
+There are no prerequisites for this course.
 
 ### Course Description
 
@@ -19,7 +19,7 @@ Comedy, that most elastic literary and performance mode, skewers artifice, toppl
 
 We will revel in Greek, Roman, and Shakespearean drama; explore Aphra Behn’s eighteenth-century feminist rakes and sexual adventurers in *The Rover*; investigate social satire in Jane Austen, Herman Melville, and Oscar Wilde; peek under the covers of small-town family life in Alison Bechdel’s *Fun Home*; and probe the uneasy relationship between farce and romantic love, violence and redemptive humor, satire and festivity in comic art. Discussion will draw on examples of popular and contemporary forms, including film  and sketch comedy.
 
-This is a HASS–CI-H class. As in other communications-intensive classes, students produce 5,000 words of polished writing in various assignments, with a required revision. They also have substantial opportunities for oral expression, through student-led discussion and in-class reports. The class has a low enrollment that ensures maximum attention to student writing and oral expression, with the help of a writing advisor, Tracy Geary.  
+As in other communications-intensive classes, students produce 5,000 words of polished writing in various assignments, with a required revision. They also have substantial opportunities for oral expression, through student-led discussion and in-class reports. The class has a low enrollment that ensures maximum attention to student writing and oral expression, with the help of a writing advisor.  
 
 **N.B.** Taking this class will improve your writing and communications skills. By developing practices of reading, reflecting, and discussing texts, it will also help you become a happier and more successful writer. My pedagogy embraces both aims, as well as the varied experiences participants bring to class.
 
@@ -28,6 +28,8 @@ This is a HASS–CI-H class. As in other communications-intensive classes, stude
 Print preferred, Kindle or Ebook acceptable, so long as laptops and cellphones can be used responsibly in class, i.e. for note-taking, close reading, peer review of essay drafts, sharing materials and links.
 
 Aristophanes. *Four Plays by Aristophanes: The Clouds / the Birds / Lysistrata / the Frogs*. London: Plume, 1994. ISBN: 9780452007178.
+
+- An online version of *Lysistrata* is available at [Project Gutenberg](https://www.gutenberg.org/files/7700/7700-h/7700-h.htm).
 
 Plautus. "The Two Menaechmuses" in *Plautus.* Cambridge, MA: Loeb Classical Library. ISBN: 9780674996786.
 
@@ -50,8 +52,6 @@ Wilde, Oscar. *The Importance of Being Earnest and Other Plays*. Edited by Peter
 - An online version is available at [Project Gutenberg](https://www.gutenberg.org/files/844/844-h/844-h.htm).
 
 Bechdel, Alison. *Fun Home: A Family Tragicomic*. Mariner Books, 2007. ISBN: 9780544709041.
-
-**Films:** are available through MIT’s Film Office. 
 
 **Annotation Studio:** You can register, find texts, and annotate [here](https://annotation-studio.vercel.app/).
 
