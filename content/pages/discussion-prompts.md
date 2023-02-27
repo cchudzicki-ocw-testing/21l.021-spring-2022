@@ -7,7 +7,7 @@ uid: cb0f4dea-60b6-4c83-93a8-6c4d34389f5d
 ---
 ### Session 1: Opening
 
-Welcome to Comedy (21L.021)! Please introduce yourself, your interest or experience in  this class, any questions about or responses to the {{% resource_link "bbc7600c-0de3-4980-8e78-2e537ddd687e" "syllabus" %}} you may have, or examples of comedy you have enjoyed or found striking or meaningful.
+Welcome to Comedy (21L.021)! Please introduce yourself, your interest or experience in this class, any questions about or responses to the {{% resource_link "bbc7600c-0de3-4980-8e78-2e537ddd687e" "syllabus" %}} you may have, or examples of comedy you have enjoyed or found striking or meaningful.
 
 **Guidelines**
 
