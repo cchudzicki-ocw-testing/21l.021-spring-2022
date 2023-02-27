@@ -23,7 +23,7 @@ Zinoman, Jason. “[If Comedy Is Making You Feel Bad, You're Not Paying Attentio
 
 Aristophanes. "Lysistrata." In *Four Plays by Aristophanes: The Clouds / The Birds / Lysistrata / The Frogs*. London: Plume, 1994. ISBN: 9780452007178.
 
-Read the entire play or as much as you can of *Lysistrata.*
+Read the entire play or as much as you can of *Lysistrata.* An online version of *Lysistrata* is available at [Project Gutenberg](https://www.gutenberg.org/files/7700/7700-h/7700-h.htm).
 
 ### Session 3
 
