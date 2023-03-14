@@ -7,12 +7,12 @@ uid: ed784e72-fee7-48d9-bcee-f40b88619fd9
 ---
 ### Session 1: Opening
 
-For  opening class be prepared:
+For opening class be prepared:
 
 - to introduce yourself to your classmates by saying something about yourself and your interest or experience in Literature and Comedy
 - to read and discuss the syllabus and semester objectives for this class
 - to reflect on a form of comic art—in whatever medium or venue—that you consider a good example of comedy
-- to discuss  a brief video clip.
+- to discuss a brief video clip.
 
 We will also sign up for [Annotation Studio](https://app.annotation.studio/), a useful tool for developing and sharing your readings; and in-class presentations.
 
@@ -37,7 +37,7 @@ Please return to *Lysistrata*, noting concepts introduced in Thursday's discussi
 
 Use the discussion forum to post responses to what you found striking at the forum or in class discussion, respond to other people's posts, or raise questions and observations of your own.
 
-Viewing Spike Lee's film *Chi-Raq*, based on *Lysistrata,* will bring these issues into relief. In class, we will look at  a clip to focus discussion on ritual and its relationship with conflict. 
+Viewing Spike Lee's film *Chi-Raq*, based on *Lysistrata,* will bring these issues into relief. In class, we will look at a clip to focus discussion on ritual and its relationship with conflict. 
 
 We will also view and discuss in Annotation Studio passages from the ending of *Lysistrata.* You are free to annotate before class; that activity is optional. In class we will focus on the festive, performance elements of the conclusion.
 
@@ -59,7 +59,7 @@ In today's class we will return to our discussion of farce and look more closely
 
 ### Session 6: Research Workshop
 
-For this class, you need to have selected a topic and date for your in-class oral report and be ready to locate reference and scholarly materials in the workshop . We welcome questions about the research process. 
+For this class, you need to have selected a topic and date for your in-class oral report and be ready to locate reference and scholarly materials in the workshop. We welcome questions about the research process. 
 
 ### Session 7: Writing Workshop
 
@@ -75,7 +75,7 @@ A film version (dir. Zeffirelli) starring Richard Burton and Elizabeth Taylor is
 
 ### Session 9: Shakespeare, *The Taming of the Shrew* (cont.)
 
-For this class, please finish *The Taming of the Shrew* (Acts III-V), post at the discussion board if you have not done so, and continue thinking about themes proposed and addressed in the last class. We will view a clip from Zeffirelli's version of the play and discuss different readings of  Petruchio's final wager and Katherine's closing speeches.
+For this class, please finish *The Taming of the Shrew* (Acts III-V), post at the discussion board if you have not done so, and continue thinking about themes proposed and addressed in the last class. We will view a clip from Zeffirelli's version of the play and discuss different readings of Petruchio's final wager and Katherine's closing speeches.
 
 ### Session 10: Revision Workshop
 
