@@ -12,7 +12,7 @@ Welcome to Comedy (21L.021)! Please introduce yourself, your interest or experie
 **Guidelines**
 
 - Your post can be any length.
-- You are welcome to reply to  classmates' posts. Your response to your classmate's discussion should add to the discussion (i.e. reflecting on their response, asking questions, etc.). 
+- You are welcome to reply to classmates' posts. Your response to your classmate's discussion should add to the discussion (i.e. reflecting on their response, asking questions, etc.). 
 
 **Remember:** *Think of your writing here as lending itself to class discussion and allowing you to test ideas in a public space outside of class.*
 
@@ -22,9 +22,9 @@ Greetings, All! You have a number of options for how to approach *Lysistrata*, o
 
 You may be simply trying to **make sense of the reading,** in which case someone else probably has the same questions you do. It's OK to be unsure.
 
-You can respond in strategic ways. One might be to note the **areas where you stopped reading**: you lost the thread, you were floored with amazement, you ran into a word or concept that seemed unfamiliar; go back to one of those places and try to figure out what caught--or halted--your attention, why that was significant.
+You can respond in strategic ways. One might be to note the **areas where you stopped reading**: you lost the thread, you were floored with amazement, you ran into a word or concept that seemed unfamiliar; go back to one of those places and try to figure out what caught—or halted—your attention, why that was significant.
 
-Another is to think  about the upcoming essay and use this space to consider an **example of conflict**—and there are many, ranging from the sublime or politically consequential to the ridiculous. Start with a passage or even a single detail that you think might be worth discussing further and see if you can understand how Aristophanes manages conflict here.
+Another is to think about the upcoming essay and use this space to consider an **example of conflict**—and there are many, ranging from the sublime or politically consequential to the ridiculous. Start with a passage or even a single detail that you think might be worth discussing further and see if you can understand how Aristophanes manages conflict here.
 
 A third might be to **build on material we explored in class**: How, for example, does the play seem to fit with Aristotle's notion of comedy or with Walter's Kerr's essay on the tragic sources of comedy? This approach will take more time, so is more ambitious than others.
 
@@ -36,7 +36,7 @@ You can raise questions, make observations, reflect on your own reading process�
 
 Although you will not be writing on Plautus (c. 254-184 BCE) for the first essay, you might return to this play for your revision, and we will see that his use of farce will ground our discussions of it in later works. 
 
-Plautus is an inheritor of Greek comedy; you might look at features of Greek Old Comedy that survive in Roman comedy , whether technical (staging, costumes or masks) or formal (use of actors or chorus, structural elements like prologue, *agon*, choral interludes, *anagnorisis*, and *kommos* or *exodos*); or you may note absences and innovations.
+Plautus is an inheritor of Greek comedy; you might look at features of Greek Old Comedy that survive in Roman comedy, whether technical (staging, costumes or masks) or formal (use of actors or chorus, structural elements like prologue, *agon*, choral interludes, *anagnorisis*, and *kommos* or *exodos*); or you may note absences and innovations.
 
 Think about our discussion of plot vs. performance in Aristophanes, the relationship between elements that forward a conflict to resolution as opposed to those that enact ritual, feature dance or song or the body, seem secondary or even antithetical to the plot's progress.
 
@@ -44,7 +44,7 @@ We will talk about Plautus's use of farce to invert social order, generate confu
 
 You may notice differences in characterization here (do any of the characters seem to have an inner life?) and in the treatment of enslaved people (who figure marginally in *Lysistrata*) and women.
 
-Lysistrata (or possibly the Athenian delegate) calls what happened in the play "mistakes" and warns against letting them happen again. The characters' transgressions against custom or social order are justified by the serious consequences of warfare. What transgressions take place in *The Two Manaechmuses,* what are the stakes and outcomes , and how does social order get restored?
+Lysistrata (or possibly the Athenian delegate) calls what happened in the play "mistakes" and warns against letting them happen again. The characters' transgressions against custom or social order are justified by the serious consequences of warfare. What transgressions take place in *The Two Manaechmuses,* what are the stakes and outcomes, and how does social order get restored?
 
 Looking forward to our discussions of this play!
 
