@@ -82,12 +82,12 @@ Give yourself a chance to explore, then follow up on your observations of this w
 
 At this point in the semester you have a considerable archive for developing observations of the works we read as well as making comparisons across them. Here are a few topics to get you started in your thinking about *The Rover,* our first female-authored text and one that speaks from outside the ancient canon we have considered. You might consider issues, characters, themes, or ideas in *Rover* that connect with Shakespeare’s plays: *Taming of the Shrew* and *Twelfth Night.*
 
-1. Worlds without fathers produce sexual carnival, men and women free of gender constraints.  Brothers are still important, though, in *Twelfth Night* and *Rover*
+1. Worlds without fathers produce sexual carnival, men and women free of gender constraints. Brothers are still important, though, in *Twelfth Night* and *Rover*
 2. Wit belongs to women. Look for places where repartee or wit breaks down. In *Rover* men continually break the equilibrium, esp Willmore (courting Angellica, attacking Florinda, outing Belvile, etc.).
 3. *Twelfth Night* brings characters to marry in the end; *Rover* mostly does, but on their own terms. Cf Katherina’s speech and Hellena’s (a paper topic!)
 4. Use of anagnorisis: Viola and Hellena remain in men’s clothes at the end (a paper topic!)
 5. Presence of an older marginalized person: Fool, Angellica.
-6. Paired couples: a courtly-love pair (Florinda/Bevile, like Bianca/Lucentio) and a pair of mad and merry pranksters (Hellena/Wilmore, like Katherina/Petrucchio). What did we get in *Twelth Night*?
+6. Paired couples: a courtly-love pair (Florinda/Belvile, like Bianca/Lucentio) and a pair of mad and merry pranksters (Hellena/Wilmore, like Katherina/Petrucchio). What did we get in *Twelth Night*?
 
 ### Sessions 14–16: Jane Austen, *Pride and Prejudice*
 
@@ -95,7 +95,7 @@ At this point in the semester you have a considerable archive for developing obs
 
 You might imagine (or have experienced) how this book gets treated in English novel classes, as a precursor of later nineteenth-century *bildungsroman:* coming-of-age stories or marriage plots about the rise of protagonists through social advancement, financial prosperity, marriage, and growth, often charted as a matter of education and moral or social character development. Love in these works often marks the characters' achievements of goals that may reflect social necessity but are often framed as personally significant.
 
-Does it change the narrative to place this novel in the context of the comedies we have read? And does addressing this question re-orient our expectations about the love and marriage plot, which literary historians of the Western tradition sometimes associate with the rise of capitalist societies?  The comic writers we have looked at so far have often challenged if not downright mocked love and marriage. What happens to our reading of Austen if we think of her as drawing on this tradition, as well as a rich culture of eighteenth-century English satire?
+Does it change the narrative to place this novel in the context of the comedies we have read? And does addressing this question re-orient our expectations about the love and marriage plot, which literary historians of the Western tradition sometimes associate with the rise of capitalist societies? The comic writers we have looked at so far have often challenged if not downright mocked love and marriage. What happens to our reading of Austen if we think of her as drawing on this tradition, as well as a rich culture of eighteenth-century English satire?
 
 As always, your posts may address any number of points you notice in the text, connections you see with other works we have read, and how you see our glossary of comic terms and strategies developing over time.
 
@@ -107,7 +107,7 @@ No discussion posts.
 
 No discussion posts.
 
-### Sessions 19–20: Oscar Wilde, *The Importance of Being Ernest*
+### Sessions 19–20: Oscar Wilde, *The Importance of Being Earnest*
 
 With Oscar Wilde, we return to farce in drama and to a world that is less realistic than Austen's in some ways, though no less concerned with the follies of aristocracy.
 
@@ -115,7 +115,7 @@ Wit plays as important a role here as in earlier works—verbal wit as well as w
 
 We will pay attention to the relationship or conflict between young lovers and blocking figures and by extension between desire/appetite and ritual/convention as structural and thematic elements in the play.
 
-These elements take on new meaning in the context of Oscar Wilde's queer aesthetics—a complex issue, since he never declared himself homosexual yet worked strenuously to make what is beautiful—or what he calls in his subtitle for the play, "trivial—-a standard to live by, in defiance of late Victorian social and sexual norms.
+These elements take on new meaning in the context of Oscar Wilde's queer aesthetics—a complex issue, since he never declared himself homosexual yet worked strenuously to make what is beautiful—or what he calls in his subtitle for the play, "trivial—-a standard to live by, in defiance of late Victorian social and sexual norms."
 
 As always, I am interested in the details that struck or puzzled or delighted you.
 
@@ -131,4 +131,4 @@ As laid out in the description of {{% resource_link "ed784e72-fee7-48d9-bcee-f40
 
 ### Sessions 24–25: Reflection and Festive Conclusion
 
-As practice or in preparation for for your reflection essay (or as a make-up entry, if you have missed one or replacement for one you are not satisfied with), use this space to think back over the semester and what you have learned: about the topic, theory, and texts of comedy; your own development in critical reading, thinking, speaking and writing; taking a  humanities class in these times; the discoveries you have made; or respond thoughtfully to another entry.
+As practice or in preparation for for your reflection essay (or as a make-up entry, if you have missed one or replacement for one you are not satisfied with), use this space to think back over the semester and what you have learned: about the topic, theory, and texts of comedy; your own development in critical reading, thinking, speaking and writing; taking a humanities class in these times; the discoveries you have made; or respond thoughtfully to another entry.
