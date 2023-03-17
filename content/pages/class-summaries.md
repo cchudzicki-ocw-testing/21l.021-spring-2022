@@ -9,7 +9,7 @@ uid: ed784e72-fee7-48d9-bcee-f40b88619fd9
 
 For opening class be prepared:
 
-- to introduce yourself to your classmates by saying something about yourself and your interest or experience in Literature and Comedy
+- to introduce yourself to your classmates by saying something about yourself and your interest or experience in literature and comedy
 - to read and discuss the syllabus and semester objectives for this class
 - to reflect on a form of comic art—in whatever medium or venue—that you consider a good example of comedy
 - to discuss a brief video clip.
@@ -55,7 +55,7 @@ The humor of men dressed as women is a staple of Billy Wilder's *Some Like It Ho
 
 ### Session 5: Plautus and Billy Wilder, *Some Like It Hot*
 
-In today's class we will return to our discussion of farce and look more closely at the ending of Plautus' *The Two Menaechmuses* for insight into the way he handles comic recognition/unmasking and resolution of the of the play's conflicts. Then we examine Billy Wilder's *Some Like it Hot* (1959) as twentieth-century film farce, with many elements we have seen in Plautus, though significant differences as well. If you have not commented on *Menaechmuses,* please post at the Plautus discussion forum; you will find a separate forum on Wilder. (Clarification: you should post on Plautus if you have not already done so; Wilder is one of the several films you can post on during the semester to get to at least ten posts.)
+In today's class we will return to our discussion of farce and look more closely at the ending of Plautus' *The Two Menaechmuses* for insight into the way he handles comic recognition/unmasking and resolution of the play's conflicts. Then we examine Billy Wilder's *Some Like it Hot* (1959) as twentieth-century film farce, with many elements we have seen in Plautus, though significant differences as well. If you have not commented on *Menaechmuses,* please post at the Plautus discussion forum; you will find a separate forum on Wilder. (Clarification: you should post on Plautus if you have not already done so; Wilder is one of the several films you can post on during the semester to get to at least ten posts.)
 
 ### Session 6: Research Workshop
 
@@ -67,7 +67,7 @@ We will use class time to practice skills of peer review, working with writing p
 
 ### Session 8: Shakespeare, *The Taming of the Shrew*
 
-For reading of Shakespeare's *The Taming of the Shrew*, you can use any print edition or the [digital](http://shakespeare.mit.edu/) one available through MIT. Please read the Induction and Acts I-II and post at the discussion board.
+For your reading of Shakespeare's *The Taming of the Shrew*, you can use any print edition or the [digital](http://shakespeare.mit.edu/) one available through MIT. Please read the Induction and Acts I-II and post at the discussion board.
 
 We will be considering this play in relation to ancient Greek and Roman comedy, thinking back to Aristophanes (with revisions of Essay 1 in mind) and questions about gender reversals, ritual, invective and festive elements, and breaking social norms and restoring social order; and to Plautus (and Wilder) with interest in farce, mistaken identity, and sexual and physical comedy. We will also be looking ahead to Shakespeare's development of these themes in *Twelfth Night* and to a comedy centered more visibly on romantic love.
 
@@ -87,7 +87,7 @@ As with your reading of Shakespeare's *The Taming of the Shrew*, you are free to
 
 We will be thinking about Shakespeare's so-called "green world" or festive comedy (see Northrop Frye's chapter, "The Argument of Comedy," in "Comedy Resources/Theories of Comedy" for further background): the use of farce in sometimes uneasy conjunction with romantic love plots (developed more fully than in *Shrew)*; Plautine twinning and Elizabethan Fools; dressing, undressing, and fluid gender roles and sexuality; the language of courtly love and its relationship with servitude and the (again Plautine) reliance on clever servants; verbal wit and Shakespearean "quibbles"; and/or other connections or innovations you notice.
 
-A film version (dir. Trevor Nunn, 1996) with Imogen Stubb and Helena Bonham-Carter is optional.
+A film version (dir. Trevor Nunn, 1996) with Imogen Stubb and Helena Bonham Carter is optional.
 
 ### Session 12: Aphra Behn, *The Rover*
 
@@ -163,7 +163,7 @@ In class we will grapple with technical features of comic book form, so do pay a
 
 For this class, please finish and post in the discussion on Bechdel's book, if you have not already done so.
 
-As you will see, this section brings Oscar Wilde's *The Importance of Being Earnest* to the fore and will remind us of theater, themes, and issues we have seen before:  of gender and sexuality, disguise and revelation, appetite, social class, inversion and repetition, and. possibly, the effeminacy of the female protagonist's father!
+As you will see, this section brings Oscar Wilde's *The Importance of Being Earnest* to the fore and will remind us of theater, themes, and issues we have seen before: of gender and sexuality, disguise and revelation, appetite, social class, inversion and repetition, and possibly, the effeminacy of the female protagonist's father!
 
 ### Session 24: Reflection
 
