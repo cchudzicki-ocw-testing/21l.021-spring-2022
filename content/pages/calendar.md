@@ -18,7 +18,7 @@ Notable Dates
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-***Comic Violence, Violent Comedy***
+**Comic Violence, Violent Comedy**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
 {{< tdclose >}}{{< tdopen >}}
@@ -28,7 +28,7 @@ Aristophanes, *Lysistrata*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
 {{< tdclose >}}{{< tdopen >}}
-Aristophanes, *Lysistrata*, continued; Spike Lee *Chi-Raq* (2015)
+Aristophanes, *Lysistrata*, continued; Spike Lee, *Chi-Raq* (2015)
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -40,8 +40,7 @@ Plautus, *The Two Manaechmuses* 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
 {{< tdclose >}}{{< tdopen >}}
-Billy Wilder, *Some Like It Hot* (1959)  
-
+Billy Wilder, *Some Like It Hot* (1959) 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -55,46 +54,50 @@ Billy Wilder, *Some Like It Hot* (1959) 
 {{< tdclose >}}{{< tdopen >}}
 In-class **Writing Workshop**. Exchange papers with partner before class.
 {{< tdclose >}}{{< tdopen >}}
-**Essay #1** 
 
-(1000 words) Due by midnight.
+**Essay #1** (1000 words) 
+
+Due by midnight.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
-Shakespeare, *The Taming of the Shrew*  
-
+Shakespeare, *The Taming of the Shrew* 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
 {{< tdclose >}}{{< tdopen >}}
 
-Shakespeare, *The Taming of the Shrew*  
+Shakespeare, *The Taming of the Shrew* 
 
-Clip in Class: from Franco Zeffirelli *The Taming of the Shrew* (1967)
+Clip in Class: from Franco Zeffirelli, *The Taming of the Shrew* (1967)
 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-***Love and Mockery***
+**Love and Mockery**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
 {{< tdclose >}}{{< tdopen >}}
 **Revision Workshop**
 {{< tdclose >}}{{< tdopen >}}
-**Revision** (1000 words). Due by midnight. 
+
+**Revision** (1000 words)
+
+Due by midnight. 
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
-Shakespeare, *Twelfth Night*  
-
+Shakespeare, *Twelfth Night* 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
 {{< tdclose >}}{{< tdopen >}}
 
-Shakespeare, *Twelfth Night*  
+Shakespeare, *Twelfth Night* 
 
 Clip in Class: from Trevor Nunn, *Twelfth Night* (1996)
 
@@ -115,24 +118,22 @@ Behn, *The Rover*
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
-Austen, *Pride and Prejudice*  
-
+Austen, *Pride and Prejudice* 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
 {{< tdclose >}}{{< tdopen >}}
-Austen, *Pride and Prejudice*  
-
+Austen, *Pride and Prejudice* 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
 {{< tdclose >}}{{< tdopen >}}
 
-Austen, *Pride and Prejudice*  
+Austen, *Pride and Prejudice* 
 
-Clip in Class: from Robert Z. Leonard *Pride and Prejudice* (1940)
+Clip in Class: from Robert Z. Leonard, *Pride and Prejudice* (1940)
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -141,7 +142,11 @@ Clip in Class: from Robert Z. Leonard *Pride and Prejudice* (1940)
 {{< tdclose >}}{{< tdopen >}}
 In-class **Workshop**
 {{< tdclose >}}{{< tdopen >}}
-**Essay #2** (1500 words). Due by midnight. 
+
+**Essay #2** (1500 words)
+
+Due by midnight. 
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
@@ -149,7 +154,7 @@ Melville, *Moby-Dick,* Chapters 1-23.
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-***Modern Times***
+**Modern Times**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
 {{< tdclose >}}{{< tdopen >}}
@@ -160,7 +165,7 @@ Wilde, *The Importance of Being Earnest*
 21
 {{< tdclose >}}{{< tdopen >}}
 
-Wilde, *The Importance of Being Earnest*  
+Wilde, *The Importance of Being Earnest* 
 
 Clip in Class: from Anthony Asquith, *The Importance of Being Earnest* (1952)
 
@@ -169,22 +174,19 @@ Clip in Class: from Anthony Asquith, *The Importance of Being Earnest* (1952)
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
 {{< tdclose >}}{{< tdopen >}}
-Film: Charlie Chaplin, *Modern Times* (1936)  
-
+Film: Charlie Chaplin, *Modern Times* (1936) 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
-Bechdel, *Fun Home*  
-
+Bechdel, *Fun Home* 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
 {{< tdclose >}}{{< tdopen >}}
-Bechdel, *Fun Home*  
-
+Bechdel, *Fun Home* 
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -192,13 +194,19 @@ Bechdel, *Fun Home* 
 {{< tdclose >}}{{< tdopen >}}
 Video: [Andy Kaufman on HBO](https://www.youtube.com/watch?v=f3UG8jP3A8M&feature=emb_title); Hannah Gadsby, [Three Ideas](https://www.youtube.com/watch?v=87qLWFZManA); [*Douglas*](https://www.youtube.com/watch?v=5lXbpgU9OWk)
 {{< tdclose >}}{{< tdopen >}}
-**Reflection** 
 
-(750 words). Due by midnight.
+**Reflection**(750 words)
+
+Due by midnight.
+
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
 {{< tdclose >}}{{< tdopen >}}
 **Conclusion**
 {{< tdclose >}}{{< tdopen >}}
-**Essay #3** (1500 words). Due by midnight.
+
+**Essay #3** (1500 words)
+
+Due by midnight.
+
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
