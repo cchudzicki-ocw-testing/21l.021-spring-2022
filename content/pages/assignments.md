@@ -7,7 +7,7 @@ uid: def28f59-bf40-4be3-b34d-3343aaf9ffef
 ---
 ### Discussion Prompts
 
-Topics in the Discussion Forum will be posted with each new author or director, or you may start your own. This writing supports class discussion, essay writing, and your growth as a critical reader and thinker. Plan to write a thoughtful post of 100-200 words on each of at least ten authors and film directors. Pace yourself and time your posts to coordinate with class discussion of a particular text (i.e. do not write about a text after we have moved on to another unless you are comparing two). You do not have to post on a day when an assignment is due.
+Topics in the discussion forum will be posted with each new author or director, or you may start your own. This writing supports class discussion, essay writing, and your growth as a critical reader and thinker. Plan to write a thoughtful post of 100-200 words on each of at least ten authors and film directors. Pace yourself and time your posts to coordinate with class discussion of a particular text (i.e. do not write about a text after we have moved on to another unless you are comparing two). You do not have to post on a day when an assignment is due.
 
 See the full list of {{% resource_link "cb0f4dea-60b6-4c83-93a8-6c4d34389f5d" "discussion prompts" %}}.
 
@@ -37,4 +37,4 @@ At the end of the semester please submit an assessment of your learning in this 
 
 The description above is a guideline. The word length ensures that you have submitted the required number of a words for a CI-H class; you can always write more. If you use a nonverbal medium--photography, video, graphic art, sound, etc.— or write a poem, dialogue, or story instead, please submit an artist's statement of an appropriate length. If your submission is in a different format from Microsoft Word, please send it to me as an email attachment.
 
-You might use the Discussion forum on this topic to get started or review the opening survey on your experiences in writing and communication.
+You might use the discussion forum on this topic to get started or review the opening survey on your experiences in writing and communication.
