@@ -9,7 +9,7 @@ For all essays, focus on a single character, scene, or even passage in the work(
 
 ### Essay #1 Comic Conflict (Aristophanes) 
 
-Due Session 7 (1000 wds)  
+Due Session 7 (1000 words)  
 
 {{% resource_link "99a9acff-3cb9-41db-9157-de70099882a0" "Essay 1 Grading Rubric (PDF)" %}} ({{% resource_link "fc4757e4-2eab-461f-828f-e6e317eab957" "DOCX" %}})
 
@@ -27,7 +27,7 @@ Give your essay an evocative title.
 
 ### Revision of Essay #1 
 
-Due Session 10 (1000 wds)
+Due Session 10 (1000 words)
 
 {{% resource_link "3d4c86d7-704a-43c1-ac98-d455148d0b67" "Revision Guidelines (PDF)" %}} ({{% resource_link "77fdee17-c75b-43a4-ad81-bc26b9fc5272" "DOCX" %}})
 
@@ -35,7 +35,7 @@ You will receive feedback on specific aspects of your essay: ideas and argument,
 
 ### Essay #2 Comic Love (Shakespeare, Behn, or Austen) 
 
-Due Session 18 (1500 wds)
+Due Session 18 (1500 words)
 
 In *Twelfth Night, The Rover,* and *Pride and Prejudice*, elements of farce (clowning, mistaken identity, trickery, verbal play, violent transgression) maintain an uneasy equilibrium with the civilizing influence of romantic love. Love conquers all, but the festive conclusion may not fully address the challenges raised by farce. Some characters are not happy or fortunate in the end; some romantic couples face certain tensions; lingering reminders of a darker world lurk outside the sunny circle of wedded bliss. Yet these are all comic works, fully invested in the healing power of love.
 
@@ -48,6 +48,6 @@ Looking more closely at the ending of one of these works, consider the way the a
 
 ### Essay #3 Modern Times (Wilde, Chaplin, Bechdel) 
 
-Due after Session 25 (1500 wds)
+Due after Session 25 (1500 words)
 
 In this essay, you will have an opportunity to reflect on Melville’s *Moby-Dick,* Wilde’s *The Importance of Being Earnest*, Chaplin’s *Modern Times*, or Bechdel’s *Fun Home;* you may also compare two of these or one with an earlier work you have not written about. With these texts, ideas about social class, identity, gender and sexuality, the nature of art, the body and its appetites, and other themes enter into comic patterns we have seen before. For this paper, you may pursue more independent options in terms of content, medium, or format. In conference, we will develop a topic, focusing on a particular passage or scene, character, or turning point in the text. If you are using film, provide visual details from a particular scene.
