@@ -50,18 +50,27 @@ About once a year, usually in the spring semester
 
 Students’ grades were based on the following activities:
 
-- 30% attendance, participation, and oral communication
-- 70% written work
+### Attendance, participation, and oral communication (30%):
+
+- Attendance (10%)
+- Participation (10%)
+- Discussion forum (10%)
+
+### Written work (70%):
+
+- First essay (10%), revision (10%), second essay (15%), third essay (15%)
+- In-class report (10%)
+- Reflection (10%)
 
 ## Student Information
 
 ### Enrollment
 
-17 students.
+17 students
 
 ### Breakdown by Year
 
-A fairly even distribution from first- through fourth-year undergraduates.
+A fairly even distribution from first- through fourth-year undergraduates
 
 ## How Student Time Was Spent
 
