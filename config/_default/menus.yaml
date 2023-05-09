@@ -7,22 +7,26 @@ leftnav:
   name: Calendar
   url: /pages/calendar
   weight: 20
+- identifier: 821272d4-fda7-47cc-bbfc-b97940f2aa3d
+  name: Instructor Insights
+  url: /pages/instructor-insights
+  weight: 30
 - identifier: e50d26dc-8dfc-4fc3-8a91-ba3695fc77b6
   name: Readings
   url: /pages/readings
-  weight: 30
+  weight: 40
 - identifier: ed784e72-fee7-48d9-bcee-f40b88619fd9
   name: Class Summaries
   url: /pages/class-summaries
-  weight: 40
+  weight: 50
 - identifier: def28f59-bf40-4be3-b34d-3343aaf9ffef
   name: Assignments
   url: /pages/assignments
-  weight: 50
+  weight: 60
 - identifier: external--763591547-1675869452137
   name: 'MIT Library Guide: Comedy'
   url: https://libguides.mit.edu/comedy/home
-  weight: 60
+  weight: 70
 - identifier: cb0f4dea-60b6-4c83-93a8-6c4d34389f5d
   name: Discussion Prompts
   parent: def28f59-bf40-4be3-b34d-3343aaf9ffef
